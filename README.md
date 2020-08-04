@@ -2,7 +2,7 @@
 
 email: fermaiasoares@aol.com
 
-# Sou intusiasta na programação, 
+# Sou entusiasta na programação, 
 Afixionado para resolver problemas e desenvolver novas ferramentas,
 que facilitem o cotidianio de qualquer um.
 
